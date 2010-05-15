@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sam/prj/avers/lib'
+let g:netrw_dirhist_2='/etc/mysql'
+let g:netrw_dirhist_3='/home/sam/prj/legend'
+let g:netrw_dirhist_4='/home/sam/prj/avers/app/controllers'
+let g:netrw_dirhist_5='/home/sam/prj/sportsdaily/config'
